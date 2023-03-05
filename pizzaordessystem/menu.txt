@@ -1,0 +1,21 @@
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik Pizza --> 90₺
+2: Margarita -----> 100₺
+3: Türk Pizza ----> 85₺
+4: Sade Pizza ----> 79₺
+5: Dominos Pizza-> 145₺
+6: Perfecto Pizza --> 89₺
+* Eklemek İstediğiniz Ekstra Malzemeler:
+11: Zeytin --> 8.25₺
+12: Mantar --> 4.35₺
+13: KeçiPeyniri --> 6.50₺
+14: Et ------> 7.50₺
+15: Soğan ---> 3.75₺
+16: Mısır ---> 3.95₺
+17: Pastırma -> 12.75₺
+18: Sucuk ---> 9.75₺
+19: Mozzarella --> 12.25₺
+20: Brokoli ---> 8.50₺
+21: Kekik ---> 1.50₺
+22: Tuz ---> 0.75
+*Teşekkürler
